@@ -1,0 +1,26 @@
+{
+  "name": "noweh/eloquent-dual-database",
+  "description": "Custom Eloquent Builder for dual database.",
+  "keywords": [
+    "laravel",
+    "eloquent"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "illuminate/database": "^6.0|^7.0|^8.0"
+  },
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julien Schmitt",
+      "email": "jschmitt95@protonmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Noweh\\PluginDualDB\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
