@@ -19,7 +19,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Noweh\\PluginDualDB\\": "src/"
+      "Noweh\\EloquentDualDatabase\\": "src/"
     }
   },
   "minimum-stability": "dev"
