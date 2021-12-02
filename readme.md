@@ -16,7 +16,7 @@ Update your packages with *composer update* or install with *composer install*.
 
 ## Simple Usage
 
-Use the trait `Noweh\EloquentDualDatabase\PluginDualDBTrait` in your Model.
+Use the trait `Noweh\EloquentDualDatabase\EloquentDualDatabaseTrait` in your Model.
 
 ### Example
 
